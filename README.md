@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noahgraham2003" alt="noahgraham2003" /></a> </p>
 
-- 🌱 I’m currently learning **Python, HTML, Frameworks**
+- 🌱 I’m currently learning **React, CSS, Frameworks**
 
 - 📫 How to reach me **noahgraham2003@gmail.com**
 
